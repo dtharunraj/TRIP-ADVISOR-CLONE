@@ -6,7 +6,7 @@ A responsive Tripadvisor Clone built using HTML5 and CSS3.
 - Responsive Navigation Bar
 - Hero Search Section
 - Explore Destinations
-- Top Hotels Section
+- Hotel Cards
 - Footer
 - Clean and Modern UI
 
@@ -14,8 +14,8 @@ A responsive Tripadvisor Clone built using HTML5 and CSS3.
 - HTML5
 - CSS3
 
-## Live Demo
-https://dtharunraj.github.io/tripadvisor-clone/
+## Repository
+https://github.com/dtharunraj/tripadvisor-clone
 
 ## Author
 D.Tharun Raj
